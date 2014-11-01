@@ -11,8 +11,8 @@ App 1: Hello, World!
 + It taught me about MVC.
 + And about models talking to databases. 
 + And about controllers handling requests. 
++ And David Heinemeier Hansson.
 + And views and stuff. 
-+ And David Heinemeier Hansson. 
 + It also taught me how to use `git`. 
 + And about Mr. Creosote. 
 
